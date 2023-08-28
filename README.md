@@ -1,2 +1,2 @@
 # softuni-html-css
-SoftUni's HTML&amp;CSS Course Projects
+SoftUni's HTML&amp;CSS Course Exercises
